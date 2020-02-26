@@ -1,5 +1,5 @@
 {
-    "name": "llaski/nova-scheduled-jobs",
+    "name": "parfumix/nova-scheduled-jobs",
     "description": "A Laravel Nova card to view your scheduled jobs.",
     "keywords": [
         "laravel",
