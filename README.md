@@ -14,7 +14,7 @@
 You can install the package in to a Laravel app that uses [Nova](https://nova.laravel.com) via composer:
 
 ```bash
-composer require llaski/nova-scheduled-jobs
+composer require parfumix/nova-scheduled-jobs
 ```
 
 To setup the tool, you must register the tool with Nova. This is typically done in the `tools` method of the `NovaServiceProvider`.
